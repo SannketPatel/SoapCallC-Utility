@@ -1,4 +1,4 @@
-# SoapCallC-Utility
+# SoapCallC# Utility
 C# Soap web service calling utility
 
 ***How to Use it****
