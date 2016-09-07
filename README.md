@@ -1,7 +1,7 @@
 # SoapCallC# Utility
 C# Soap web service calling utility
 
-***How to Use it****
+***How to Use it***
 
 There is sample call is already included in it.
 
